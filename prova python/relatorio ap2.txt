@@ -1,0 +1,11 @@
+- Integrantes: Arthur de Jesus Lima, RA: 2602691
+	      Felipe Borges Leal Diniz, RA: 2602622
+	      Rubens Maciel Oliveira, RA: 2602124
+
+Turma: ADS - 2A, Noite.
+
+Relatório Jogo Paciência AP2:
+
+Primeiro, desenvolvemos os cards e implementamos o movimento de arrastá-los pela tela. Em seguida, criamos os slots, que são as áreas onde os cards podem ser soltos. Depois, alteramos o posicionamento dos cards para que ficassem empilhados um abaixo do outro, em formato de leque. Na sequência, passamos a mover mais de um card ao mesmo tempo, de modo que a pilha inteira pudesse ser arrastada e colocada em um slot.
+
+Por fim, com o auxílio de uma inteligência artificial (Claude), desenvolvemos variáveis para armazenar as imagens dos cards e ajustamos o tamanho delas para que se encaixassem corretamente dentro de cada card.
